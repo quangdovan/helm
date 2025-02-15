@@ -9,6 +9,6 @@ entries:
     name: webapp
     type: application
     urls:
-    - package/webapp-0.1.0.tgz
+    - https://quangdovan.github.io/helm/webapp1/package/webapp-0.1.0.tgz
     version: 0.1.0
 generated: "2023-09-05T14:56:23.905920582Z"
